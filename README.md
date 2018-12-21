@@ -11,3 +11,4 @@ Computer tear down and rebuild website project
 - [ ] finish writing the steps for directions
 - [ ] clean up code if there is extra time
 - [ ] add an animation for sliding to the next slide
+- [ ] finish changing to abbreviations and having the definition
