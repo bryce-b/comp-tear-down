@@ -32,10 +32,10 @@ $( document ).ready( function( ) {
         }
 		
         $( "ul.preview li" ).hide( );
-        $( "ul.preview li:eq(" + step + ")" ).show( );
+        $( "ul.preview li:eq(" + step + ")" ).toggle( "slide" );
 		
         $( "ul.text li" ).hide( );
-        $( "ul.text li:eq(" + step + ")" ).show( );
+        $( "ul.text li:eq(" + step + ")" ).toggle( "slide" );
         
         $( "#edit" ).text( "Showing steps for #" + ( step + 1 ) );
     } );
