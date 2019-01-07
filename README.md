@@ -10,5 +10,5 @@ Computer tear down and rebuild website project
 - [x] include all of the pictures onto the website
 - [x] finish writing the steps for directions
 - [x] finish changing to abbreviations and having the definition
+- [x] add an animation for sliding to the next slide
 - [ ] clean up code if there is extra time
-- [ ] add an animation for sliding to the next slide
